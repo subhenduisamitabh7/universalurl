@@ -1,0 +1,11 @@
+{
+	"applinks": {
+		"apps": [],
+		"details": [
+			{
+				"appID": "223EARGBV7.com.ruckuswireless.UniversalAppDemo",
+				"paths": [ "*"]
+			}
+		]
+	}
+}
